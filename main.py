@@ -1,4 +1,3 @@
-from os import lseek
 from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
